@@ -1,0 +1,14 @@
+/home/rushi/Microsoft Code/LCM/bin/Debug/netcoreapp2.2/LCM.deps.json
+/home/rushi/Microsoft Code/LCM/bin/Debug/netcoreapp2.2/LCM.runtimeconfig.json
+/home/rushi/Microsoft Code/LCM/bin/Debug/netcoreapp2.2/LCM.runtimeconfig.dev.json
+/home/rushi/Microsoft Code/LCM/bin/Debug/netcoreapp2.2/LCM.dll
+/home/rushi/Microsoft Code/LCM/bin/Debug/netcoreapp2.2/LCM.pdb
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.csprojAssemblyReference.cache
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.csproj.CoreCompileInputs.cache
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.RazorAssemblyInfo.cache
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.RazorAssemblyInfo.cs
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.AssemblyInfoInputs.cache
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.AssemblyInfo.cs
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.RazorTargetAssemblyInfo.cache
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.dll
+/home/rushi/Microsoft Code/LCM/obj/Debug/netcoreapp2.2/LCM.pdb
